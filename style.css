@@ -73,7 +73,7 @@ header{
 	background-color: #0078BD;
 	
 }
-.login_black a{
+.login_black a:hover{
 	color: #ffffff !important;
 }
 .menu{
