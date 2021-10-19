@@ -73,6 +73,9 @@ header{
 	background-color: #0078BD;
 	
 }
+.login_black a{
+	color: #ffffff !important;
+}
 .menu{
 	padding-top: 16px !important;
 }
